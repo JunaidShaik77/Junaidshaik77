@@ -18,6 +18,10 @@
 </div>
 
 ---
+### 🖥️ Portfolio Walkthrough (GIF Demo)
+
+![Portfolio Demo](https://github.com/JunaidShaik77/JunaidShaik77/blob/main/assets/junaid.gif?raw=true)
+
 
 ## 👨‍🎓 About Me
 
@@ -105,6 +109,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JunaidShaik77&show_icons=true&theme=react&hide_border=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JunaidShaik77&theme=react&hide_border=true" />
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
