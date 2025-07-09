@@ -18,9 +18,17 @@
 </div>
 
 ---
-### 🖥️ Portfolio Walkthrough (GIF Demo)
+<h3 align="center">🖥️
 
-![Portfolio Demo](https://github.com/JunaidShaik77/JunaidShaik77/blob/main/assets/junaid.gif?raw=true)
+<p align="center">
+  <a href="https://junaidshaik77.github.io/" target="_blank">
+    <img src="./assets/junaid.gif" width="500" alt="Portfolio Demo" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://junaidshaik77.github.io/">
+</p>
 
 
 ## 👨‍🎓 About Me
