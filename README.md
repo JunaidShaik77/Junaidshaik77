@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://junaidshaik-portfolio.vercel.app/" target="_blank">
+  <a href="https://mjs-portfolio-t.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2ECC71?style=for-the-badge&logo=three.js" alt="Portfolio Badge" />
   </a>
   <a href="https://www.linkedin.com/in/mohammedjunaid-shaik" target="_blank">
