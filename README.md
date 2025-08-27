@@ -108,7 +108,7 @@
 <p align="center">
   📧 <a href="mailto:2200030243cseh@gmail.com">2200030243cseh@gmail.com</a> <br/>
   🔗 <a href="https://www.linkedin.com/in/mohammedjunaid-shaik">LinkedIn</a> <br/>
-  🌐 <a href="https://junaidshaik-portfolio.vercel.app/">Portfolio Website</a> <br/>
+  🌐 <a href="https://mjs-portfolio-t.vercel.app/">Portfolio Website</a> <br/>
 </p>
 
 ---
